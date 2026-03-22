@@ -29,7 +29,8 @@ logging.basicConfig(
 import os
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-ADMIN_IDS = list(map(int, os.environ.get("ADMIN_IDS", "").split(",")))
+ADMIN_ID = list(map(int, os.environ.get("ADMIN_ID", "").split(",")))
+ADMIN_ID1 = list(map(int, os.environ.get("ADMIN_ID1", "").split(",")))
 GENERAL_COURIER_CHAT_ID = int(os.environ.get("GENERAL_COURIER_CHAT_ID"))
 user_carts = {}
 user_cities = {}
