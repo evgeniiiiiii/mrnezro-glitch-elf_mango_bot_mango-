@@ -1,0 +1,131 @@
+{
+  "categories": {
+    "liquids": {
+      "name": "💨 Рідини (Жижі)",
+      "brands": {
+        "elfliq": {
+          "name": "ELFLIQ EN 5% — 19€",
+          "items": [
+            {
+              "name": "ELFLIQ 30ml (5%) — 19€",
+              "price": 19,
+              "description": "Оригінальна рідина від Elf Bar",
+              "items": [
+                "Apple Peach", "Blackberry Lemon", "Blue Razz Lemonade", "Blueberry", 
+                "Blueberry Sour Raspberry", "Cherry", "Elf Jack", "Elfbull Ice", 
+                "Kiwi Passion Fruit Guava", "Peach Ice", "Pina Colada", "Pink Grapefruit", 
+                "Pink Lemonade", "Sour Apple", "Spearmint", "Strawberry Ice", 
+                "Strawberry Kiwi", "Strawberry Raspberry Cherry Ice", "Watermelon",
+                "Apple Pear", "Blue Razz", "Blueberry Raspberry Pomegranate", 
+                "Blueberry Rose Mint", "Cherry Lemon Peach", "Cool Mint", "Double Apple", 
+                "Grape Cherry", "Green Grape Rose", "Jasmine Raspberry", "Lemon Lime", 
+                "Mango Peach", "Pineapple Colada", "Pineapple Ice", "Pink Lemonade Soda", 
+                "Raspberry Lychee", "Sour Watermelon Gummy", "Strawberry Banana", 
+                "Strawberry Cherry Lemon", "Watermelon Cherry"
+              ]
+            }
+          ]
+        },
+        "chaser_black": {
+          "name": "CHASER Black — від 18€",
+          "items": [
+            {
+              "name": "Chaser Black (5%) — 18€",
+              "price": 18,
+              "description": "Класична лінійка Chaser",
+              "items": ["Blackcurrant Peach Apple", "Energy Grape", "Energy Raspberry", "Watermelon Lemon", "Banana Apple", "Mojito", "Peach Lemonade"]
+            },
+            {
+              "name": "Chaser Black (6%) — 19€",
+              "price": 19,
+              "description": "Підвищена міцність 6%",
+              "items": ["Blackcurrant Peach Apple", "Energy Grape", "Energy Raspberry", "Watermelon Lemon", "Banana Apple", "Mojito", "Peach Lemonade"]
+            }
+          ]
+        },
+        "chaser_lux": {
+          "name": "CHASER LUX — від 19€",
+          "items": [
+            {
+              "name": "Chaser LUX (6%) — 19€",
+              "price": 19,
+              "description": "Люксова серія Chaser",
+              "items": ["Kiwi Passion Fruit Guava", "Strawberry Raspberry", "Blueberry Mint"]
+            },
+            {
+              "name": "Chaser LUX (6.5%) — 20€",
+              "price": 20,
+              "description": "Максимальна міцність 6.5%",
+              "items": ["Kiwi Passion Fruit Guava", "Strawberry Raspberry", "Blueberry Mint"]
+            }
+          ]
+        },
+        "hqd": {
+          "name": "HQD Premium — 17€",
+          "items": [
+            {
+              "name": "HQD Premium Salt (5%) — 17€",
+              "price": 17,
+              "description": "Насичений смак HQD",
+              "items": ["Black Ice", "Cherry Ice", "Fizzy Cherry", "Lemon Lime", "Mister Blue", "Sky Mint", "Strawberry Ice", "Peach Ice"]
+            }
+          ]
+        },
+        "nasty": {
+          "name": "Nasty Juice — 17.50€",
+          "items": [
+            {
+              "name": "Nasty Salt 30ml — 17.50€",
+              "price": 17.5,
+              "description": "Малайзійська рідина",
+              "items": ["Slow Blow", "Bad Blood", "ASAP Grape", "Cush Man"]
+            }
+          ]
+        }
+      }
+    },
+    "pods": {
+      "name": "📱 Под-системи",
+      "brands": {
+        "vaporesso": {
+          "name": "Vaporesso XROS Series",
+          "items": [
+            { "name": "Xros 4 mini — 36€", "price": 36, "description": "Компактний под", "items": ["Space Grey", "Black", "Silver"] },
+            { "name": "Xros 5 mini — 38€", "price": 38, "description": "Оновлена міні-версія", "items": ["Black", "Blue", "Green"] },
+            { "name": "Xros 4 — 43€", "price": 43, "description": "Потужний середній сегмент", "items": ["Black", "Silver"] },
+            { "name": "Xros nano 4 — 45€", "price": 45, "description": "Квадратний форм-фактор", "items": ["Titanium", "Camo"] },
+            { "name": "Xros 5 — 48€", "price": 48, "description": "Флагман серії", "items": ["Black", "Midnight"] },
+            { "name": "Xros pro — 50€", "price": 50, "description": "Професійна модель", "items": ["Black", "Carbon"] },
+            { "name": "Xros pro 2 — 52€", "price": 52, "description": "Найновіша модель", "items": ["Cyber Blue", "Phantom"] }
+          ]
+        },
+        "elfbar_pod": {
+          "name": "Elf Bar Devices",
+          "items": [
+            { "name": "Elf Bar Device — 45€", "price": 45, "description": "Багаторазовий пристрій", "items": ["Black", "Aurora"] }
+          ]
+        }
+      }
+    },
+    "cartridges": {
+      "name": "🔌 Картриджі",
+      "brands": {
+        "vaporesso_cart": {
+          "name": "Vaporesso — 8€/шт",
+          "items": [
+            { "name": "XROS Cartridge (0.4 ohm) — 8€", "price": 8, "description": "Ціна за 1 штуку", "items": ["Standard"] },
+            { "name": "XROS Cartridge (0.6 ohm) — 8€", "price": 8, "description": "Ціна за 1 штуку", "items": ["Standard"] },
+            { "name": "XROS Cartridge (0.8 ohm) — 8€", "price": 8, "description": "Ціна за 1 штуку", "items": ["Standard"] }
+          ]
+        },
+        "elfbar_cart": {
+          "name": "Elf Bar — 8€/шт",
+          "items": [
+            { "name": "Elf Bar Cart (0.4 ohm) — 8€", "price": 8, "description": "Ціна за 1 штуку", "items": ["Standard"] },
+            { "name": "Elf Bar Cart (0.8 ohm) — 8€", "price": 8, "description": "Ціна за 1 штуку", "items": ["Standard"] }
+          ]
+        }
+      }
+    }
+  }
+}
