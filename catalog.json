@@ -2,9 +2,11 @@
   "categories": {
     "liquids": {
       "name": "💨 Рідини (Жижі)",
+      "image": "https://ibb.co/cSTz68zt",
       "brands": {
         "elfliq": {
           "name": "ELFLIQ EN 5% — 19€",
+          "image": "https://ibb.co/cSTz68zt",
           "items": [
             {
               "name": "ELFLIQ 30ml (5%) — 19€",
@@ -28,6 +30,7 @@
         },
         "chaser_black": {
           "name": "CHASER Black — від 18€",
+          "image": "https://ibb.co/Vfjvrk5",
           "items": [
             {
               "name": "Chaser Black (5%) — 18€",
@@ -45,6 +48,7 @@
         },
         "chaser_lux": {
           "name": "CHASER LUX — від 19€",
+          "image": "https://ibb.co/KxNQPs66",
           "items": [
             {
               "name": "Chaser LUX (6%) — 19€",
@@ -62,6 +66,7 @@
         },
         "hqd": {
           "name": "HQD Premium — 17€",
+          "image": "https://ibb.co/M5BjYRgt",
           "items": [
             {
               "name": "HQD Premium Salt (5%) — 17€",
@@ -73,6 +78,7 @@
         },
         "nasty": {
           "name": "Nasty Juice — 17.50€",
+          "image": "https://ibb.co/1fkTXHPP",
           "items": [
             {
               "name": "Nasty Salt 30ml — 17.50€",
@@ -86,9 +92,11 @@
     },
     "pods": {
       "name": "📱 Под-системи",
+      "image": "https://ibb.co/VpxqrXhP",
       "brands": {
         "vaporesso": {
           "name": "Vaporesso XROS Series",
+          "image": "https://ibb.co/VpxqrXhP",
           "items": [
             { "name": "Xros 4 mini — 36€", "price": 36, "description": "Компактний под", "items": ["Space Grey", "Black", "Silver"] },
             { "name": "Xros 5 mini — 38€", "price": 38, "description": "Оновлена міні-версія", "items": ["Black", "Blue", "Green"] },
@@ -101,6 +109,7 @@
         },
         "elfbar_pod": {
           "name": "Elf Bar Devices",
+          "image": "https://ibb.co/8DrX0XSq",
           "items": [
             { "name": "Elf Bar Device — 45€", "price": 45, "description": "Багаторазовий пристрій", "items": ["Black", "Aurora"] }
           ]
@@ -109,6 +118,7 @@
     },
     "cartridges": {
       "name": "🔌 Картриджі",
+      "image": "https://ibb.co/GfTmrwW3",
       "brands": {
         "vaporesso_cart": {
           "name": "Vaporesso — 8€/шт",
